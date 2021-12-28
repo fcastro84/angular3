@@ -5,9 +5,9 @@ import { Component } from '@angular/core';
   templateUrl: 'app.component.html'
 })
 export class AppComponent {
-  title: string = 'Contador app';
+  /*title: string = 'Contador app';
   numero: number = 10;
-  base: number = 5;
+  base: number = 5;*/
 
   /*sumar() {
     this.numero += 1;
@@ -23,7 +23,7 @@ export class AppComponent {
       this.numero -= 1;
   }*/
 
-  argumento(valor:number){
+  /*argumento(valor:number){
     this.numero += valor;
-  }
+  }*/
 }
